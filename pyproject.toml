@@ -1,0 +1,14 @@
+[project]
+name = "service-status-monitor"
+version = "1.0.0"
+description = "A production-ready Python application that automatically tracks and logs service updates from multiple status pages using an event-based architecture. Built to efficiently monitor 100+ providers simultaneously."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.13.2",
+    "bs4>=0.0.2",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.0.0",
+    "requests>=2.32.5",
+    "python-dotenv>=1.0.0",
+]
