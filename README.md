@@ -272,4 +272,3 @@ See the `examples/` directory for:
 
 **Author**: Prakhar Bhartiya  
 **License**: MIT  
-**Year**: 2025
